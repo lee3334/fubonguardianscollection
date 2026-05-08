@@ -746,6 +746,7 @@ const datasets = {
   "angels": [
     {
       "name": "陳愉",
+      "number": "4",
       "position": "Fubon Angels",
       "category": "angels",
       "image": "assets/陳愉.jpeg"
