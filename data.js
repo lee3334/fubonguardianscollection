@@ -3,15 +3,15 @@ const datasets = {
     {
       "name": "童堉誠",
       "number": "00",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/00.jpeg"
     },
     {
       "name": "潘瑋祥",
       "number": "0",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/0.jpeg"
     },
     {
@@ -38,8 +38,8 @@ const datasets = {
     {
       "name": "高捷",
       "number": "4",
-      "position": "外野手",
-      "category": "outfielders",
+      "position": "內野手",
+      "category": "infielders",
       "image": "assets/4.jpeg"
     },
     {
@@ -52,15 +52,15 @@ const datasets = {
     {
       "name": "葉子霆",
       "number": "6",
-      "position": "外野手",
-      "category": "outfielders",
+      "position": "內野手",
+      "category": "infielders",
       "image": "assets/6.jpeg"
     },
     {
       "name": "陳真",
       "number": "7",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/7.jpeg"
     },
     {
@@ -73,8 +73,8 @@ const datasets = {
     {
       "name": "林莛淯",
       "number": "9",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/9.jpeg"
     },
     {
@@ -171,8 +171,8 @@ const datasets = {
     {
       "name": "鄭昭誠",
       "number": "23",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/23.jpeg"
     },
     {
@@ -185,22 +185,22 @@ const datasets = {
     {
       "name": "林書逸",
       "number": "25",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/25.jpeg"
     },
     {
       "name": "陳品捷",
       "number": "26",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "二軍打擊教練",
+      "category": "coaches",
       "image": "assets/26.jpeg"
     },
     {
       "name": "黃浩然",
       "number": "27",
-      "position": "外野手",
-      "category": "outfielders",
+      "position": "二軍捕手教練",
+      "category": "coaches",
       "image": "assets/27.jpeg"
     },
     {
@@ -213,8 +213,8 @@ const datasets = {
     {
       "name": "申皓瑋",
       "number": "29",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/29.jpeg"
     },
     {
@@ -227,8 +227,8 @@ const datasets = {
     {
       "name": "林岱安",
       "number": "31",
-      "position": "三壘手",
-      "category": "infielders",
+      "position": "捕手",
+      "category": "catchers",
       "image": "assets/31.jpeg"
     },
     {
@@ -241,8 +241,8 @@ const datasets = {
     {
       "name": "張洺瑀",
       "number": "33",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/33.jpeg"
     },
     {
@@ -255,15 +255,15 @@ const datasets = {
     {
       "name": "王正棠",
       "number": "35",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "外野手",
+      "category": "outfielders",
       "image": "assets/35.jpeg"
     },
     {
       "name": "蔡建偉",
       "number": "36",
-      "position": "投手",
-      "category": "pitchers",
+      "position": "基地野👋🏻打擊教練",
+      "category": "coaches",
       "image": "assets/36.jpeg"
     },
     {
